@@ -3,3 +3,6 @@ __pycache__/
 .DS_Store
 .venv/
 data/imported.jsonl
+data/accounts.sqlite3
+data/accounts.sqlite3-wal
+data/accounts.sqlite3-shm
